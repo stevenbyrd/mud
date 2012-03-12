@@ -1,0 +1,6 @@
+<roomID> 0
+<name> Test Room 0
+<description0> This is the main testing room, where all players
+<description1> will initially spawn.
+<exit> north 1
+<exit> east 2

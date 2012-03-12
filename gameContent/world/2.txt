@@ -1,0 +1,6 @@
+<roomID> 2
+<name> Test Room 2
+<description0> This room is for testing hidden exits. The exit
+<description1> back to Test Room 0 is west and should not be
+<description2> listed in the "Obvious exits".
+<hidden_exit> west 0

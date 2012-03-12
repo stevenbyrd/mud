@@ -1,0 +1,12 @@
+<race> race_human
+<actorID> 6
+<name> NPrime
+<description0> Gifted asian mentat.
+<roomID> 0
+<stat_strength> 15
+<stat_constitution> 15
+<stat_energy> 15
+<stat_focus> 15
+<stat_agility> 15
+<stat_awareness> 15
+<gender> male

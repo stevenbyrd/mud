@@ -1,0 +1,5 @@
+<roomID> 1
+<name> Test Room 1
+<description0> This room is for testing exits -- heading south should
+<description1> bring you back to Test Room 0.
+<exit> south 0

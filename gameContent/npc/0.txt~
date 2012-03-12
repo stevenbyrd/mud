@@ -1,0 +1,16 @@
+<race> race_sol
+<actorID> 0
+<name> dummy
+<plural_name> dummies
+<description0> This is a dummy NPC.
+<roomID> 0
+<stat_strength> 10
+<stat_constitution> 10
+<stat_energy> 10
+<stat_focus> 10
+<stat_agility> 10
+<stat_awareness> 10
+<gender> male
+<is_aggro> false
+<wander_rate> 0
+<flee_rate> 0

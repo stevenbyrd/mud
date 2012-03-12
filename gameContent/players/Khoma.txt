@@ -1,0 +1,14 @@
+<race> race_sol
+<actorID> 0
+<name> Khoma
+<description0> description line 0
+<description1> description line 1
+<description2> description line 2
+<roomID> 0
+<stat_strength> 20
+<stat_constitution> 20
+<stat_energy> 20
+<stat_focus> 20
+<stat_agility> 20
+<stat_awareness> 20
+<gender> male

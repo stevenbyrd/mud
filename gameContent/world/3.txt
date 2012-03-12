@@ -1,0 +1,5 @@
+<roomID> 3
+<name> Test Room 3
+<description0> This room is for testing NPC spawning. 
+<exit> north 0
+<npc_spawn> 0 0.2 0.1 5000 0
